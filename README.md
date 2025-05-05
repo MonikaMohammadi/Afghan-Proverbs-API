@@ -26,20 +26,20 @@ Built with:
 git clone https://github.com/MonikaMohammadi/Afghan-Proverbs-API.git
 cd Afghan-Proverbs-API
 
-### 2. Install Dependencies
+2. Install Dependencies
 npm install
 
-### 3. Create the Data File
+3. Create the Data File
 In the data folder, create a file named proverbs.json and initialize it with an empty array:
 []
 
-### 4. Run the Server
+4. Run the Server
 node index.js
 
 You should see: 🚀 Server running at http://localhost:3000
 
 
-### 5. Test the API
+5. Test the API
 Use tools like Postman or curl to send requests to:
 http://localhost:3000/proverbs
 
