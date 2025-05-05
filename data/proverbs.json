@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "textDari": "کار امروز را به فردا مسپار",
+    "textPashto": "د نن کار سبا ته مه پریږده",
+    "translationEn": "Don't postpone today's work to tomorrow",
+    "meaning": "Do not delay tasks that can be done today.",
+    "category": "advice"
+  },
+  {
+    "id": 2,
+    "textDari": "آب که از سر گذشت، چه یک نی چه صد نی",
+    "textPashto": "اوبه چې له سره واوړي، که یو نی وي که سل نی، فرق نه کوي",
+    "meaning": "When a situation is already bad, further complications make little difference.",
+    "category": "wisdom"
+  }
+]
